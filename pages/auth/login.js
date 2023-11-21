@@ -116,7 +116,7 @@ const useStyles = makeStyles(({
     backgroundImage: {
         width: '100%',
         height: '100vh',
-        backgroundImage: "url(https://cdn.windowsreport.com/wp-content/uploads/2020/11/10-Best-desktops-for-programming-and-coding.jpg)",
+        backgroundImage: "url(https://www.wallpapertip.com/wmimgs/152-1526785_coffee-shop-background.jpg)",
         backgroundRepeat: "no-repeat",
         backgroundSize: "cover",
         backgroundPosition: "center",
