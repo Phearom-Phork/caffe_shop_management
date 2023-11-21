@@ -4,7 +4,6 @@ import CashIn from './../components/Cashin';
 const Index = () => {
     return (
         <>
-            Index
             <CashIn/>
         </>
     );

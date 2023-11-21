@@ -49,7 +49,7 @@ export default function ForgotPassword({
 
             <Grid item xs={12} sm={8} md={5} component={Paper} elevation={6} square>
                 <Box sx={{ my: 5, mx: 4, }} className={classes.container}>
-
+                <img  src="/hot-drink 1.png" width={100} height={100} alt="logo" /><br/><br/>
                     {/* form ForgotPassword */}
                     <form className={classes.form} onSubmit={handleForgotPassword}>
                         <Stack spacing={2}>
@@ -92,9 +92,7 @@ export default function ForgotPassword({
 
                     </form>
                 </Box>
-                <footer align="center">
-                    <Paragraph title='&copy; Copyright 2023, Leanghak Coder. All Rights Reserved.' />
-                </footer>
+               
             </Grid>
         </Grid>
 
